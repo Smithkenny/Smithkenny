@@ -1,5 +1,9 @@
 ### Hi there 👋
+欢迎来到我的github
 
+我的博客是：https://haipengv.com
+
+<img src="https://camo.githubusercontent.com/14fdab03138825faa4ee55b8a8efcd3880b04ac7fd41414e27b1fc421365b00f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62626f79736f756c636e2673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Smithkenny&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
 <!--
 **Smithkenny/Smithkenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
